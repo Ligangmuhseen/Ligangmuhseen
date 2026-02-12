@@ -47,7 +47,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/cicd.png" alt="CI/CD" width="40" height="40"/>
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLa-py6toWAZ6Fv_gIiYUlT5XizXp0WAYAGQ&s" alt="CI/CD" width="80" height="80"/>
 </p>
 ---
 
