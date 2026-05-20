@@ -2,7 +2,7 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzlmY2MzY2Q5NmE4aXU5bm8xMTV6bDNkZWQ3NTNkMjYybDFyZzN1dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EeMsM48HYMeJJsVdwf/200.webp" width="120" alt="Hi there" />
 </p>
 
-<h1 align="center">Hi, I'm Muhsin Maurid Abubakari 👋</h1>
+<h1 align="center">Hi, I'm Muhsin Abubakari 👋</h1>
 
 <p align="center">
   <b>Full-Stack Developer &amp; AI Enthusiast</b><br/>
